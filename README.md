@@ -8,7 +8,7 @@ Site criado no curso de HTML e CSS do Prof Gustavo Guanabara **CursoEmVideo**
 **Front-end:** HTML, CSS
 
 ## 🔗 Links
-:open_file_folder:[Acesso ao projeto](https://dalilassr.github.io/projeto-android/)
+:open_file_folder:[Acesso ao projeto](https://dalisr.github.io/projeto-android/)
 
 
 ## Licença
